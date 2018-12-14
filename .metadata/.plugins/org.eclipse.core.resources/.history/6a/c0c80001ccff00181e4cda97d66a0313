@@ -1,5 +1,0 @@
-package br.com.app.microservices.limitsservice;
-
-public class LimitsConfigurationController {
-
-}
